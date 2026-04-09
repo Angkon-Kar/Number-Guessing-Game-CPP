@@ -1,7 +1,5 @@
 # Number Guessing Game in C++ 🎮
 
-https://github.com/Angkon-Kar/Number-Guessing-Game-CPP
-
 A simple, interactive command-line Number Guessing Game written in C++. The game generates a random number between 1 and 100, and the player has to guess it within a limited number of attempts based on the chosen difficulty level.
 
 ## ✨ Features
@@ -64,5 +62,8 @@ Win the game by guessing the correct number before you run out of chances!
 
 [Angkon Kar](https://github.com/Angkon-Kar)
 
+
 ## 📝 License
 This project is open-source and available under the MIT License.
+
+https://roadmap.sh/projects/number-guessing-game
